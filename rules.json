@@ -1,0 +1,82 @@
+{"emotional_expressions":[
+{"cn":"绝了","localized":{"US":"absolutely stunning","UK":"rather brilliant","AU":"proper good"}},
+{"cn":"治愈","localized":{"US":"instantly comforting","UK":"thoroughly soothing","AU":"makes you feel at ease"}},
+{"cn":"氛围感","localized":{"US":"the vibe is immaculate","UK":"the atmosphere is spot on","AU":"the whole mood"}},
+{"cn":"太治愈了","localized":{"US":"instant mood lifter","UK":"properly cheering","AU":"absolute mood booster"}},
+{"cn":"爱了爱了","localized":{"US":"obsessed, no notes","UK":"rather taken with this","AU":"absolutely love this"}},
+{"cn":"一眼心动","localized":{"US":"love at first sight","UK":"caught my eye immediately","AU":"grabbed me straight away"}},
+{"cn":"太上头了","localized":{"US":"can't stop thinking about it","UK":"find myself quite obsessed","AU":"proper hooked on this"}},
+{"cn":"心动了","localized":{"US":"this one got me","UK":"this rather won me over","AU":"yeah nah, this is the one"}},
+{"cn":"高级感","localized":{"US":"elevated, sophisticated look","UK":"understated elegance","AU":"looks properly premium"}},
+{"cn":"神仙","localized":{"US":"absolutely divine","UK":"genuinely exceptional","AU":"deadset brilliant"}},
+{"cn":"惊艳","localized":{"US":"blew me away","UK":"genuinely impressive","AU":"proper surprised me"}},
+{"cn":"绝美","localized":{"US":"breathtakingly beautiful","UK":"really quite beautiful","AU":"absolutely gorgeous"}},
+{"cn":"温馨","localized":{"US":"cozy and inviting","UK":"properly cosy","AU":"nice and warm feel"}},
+{"cn":"质感满分","localized":{"US":"the quality is top-tier","UK":"the quality is spot on","AU":"quality is ace"}},
+{"cn":"爱不释手","localized":{"US":"can't put it down","UK":"rather hard to put down","AU":"can't keep my hands off it"}}
+],"quality_claims":[
+{"cn":"纯手工","localized":{"US":"handcrafted by skilled artisans","UK":"made by hand with proper care","AU":"properly handmade"}},
+{"cn":"匠心","localized":{"US":"master-level craftsmanship","UK":"proper craftsmanship","AU":"top-notch craft"}},
+{"cn":"匠人精神","localized":{"US":"artisan dedication you can feel","UK":"the dedication shows in every stitch","AU":"you can tell a real craftsperson made this"}},
+{"cn":"细节满分","localized":{"US":"the details are impeccable","UK":"the details are properly done","AU":"attention to detail is spot on"}},
+{"cn":"经久耐用","localized":{"US":"built to last for years","UK":"made to last properly","AU":"tough as, this one"}},
+{"cn":"精选材质","localized":{"US":"sourced from premium materials","UK":"properly sourced materials","AU":"top quality materials used"}},
+{"cn":"真材实料","localized":{"US":"what you see is genuinely what you get","UK":"properly honest materials","AU":"the real deal, no fakes here"}},
+{"cn":"无可挑剔","localized":{"US":"flawless in every way","UK":"nothing to fault here","AU":"can't fault this at all"}},
+{"cn":"做工精细","localized":{"US":"exquisitely crafted with fine attention","UK":"finely made, lovely attention to detail","AU":"neat work, well put together"}},
+{"cn":"匠人的温度","localized":{"US":"the artisan's personal warmth and care","UK":"the craftsperson's genuine care","AU":"the maker's personal touch and warmth"}}
+],"social_proof":[
+{"cn":"大家都在问","localized":{"US":"everyone's been asking about this","UK":"had quite a few people asking","AU":"heaps of people have been asking"}},
+{"cn":"小姐妹都在用","localized":{"US":"my entire circle swears by this","UK":"all my mates are rather keen on this","AU":"the whole crew's onto this"}},
+{"cn":"回头率超高","localized":{"US":"I get stopped constantly about this","UK":"gets quite a lot of compliments","AU":"people proper notice this one"}},
+{"cn":"人手一个","localized":{"US":"it's become a staple piece","UK":"seems everyone's got one","AU":"every bugger's got one now"}},
+{"cn":"卖爆了","localized":{"US":"selling out constantly for a reason","UK":"flying off the shelves","AU":"selling like hotcakes"}},
+{"cn":"全网好评","localized":{"US":"rave reviews across the board","UK":"rather well reviewed everywhere","AU":"rating well across the board"}},
+{"cn":"回购无数次","localized":{"US":"I keep coming back to this one","UK":"one I keep returning to","AU":"keep buying this one over and over"}},
+{"cn":"零差评","localized":{"US":"literally no complaints anywhere","UK":"not heard a bad word about it","AU":"haven't heard anyone knock it"}},
+{"cn":"姐妹们都问","localized":{"US":"all my friends have been asking","UK":"all my mates have been asking","AU":"everyone's been asking me"}}
+],"action_prompts":[
+{"cn":"闭眼入","localized":{"US":"you can grab this without hesitation","UK":"safe bet, this one","AU":"no worries picking this one up"}},
+{"cn":"不踩雷","localized":{"US":"zero risk of disappointment here","UK":"you won't go wrong with this","AU":"she'll be right with this one"}},
+{"cn":"赶紧冲","localized":{"US":"run, don't walk","UK":"worth being quick about","AU":"get onto this quick"}},
+{"cn":"必入","localized":{"US":"a must-have for your collection","UK":"one for the list, definitely","AU":"should definitely pick this up"}},
+{"cn":"入手不亏","localized":{"US":"worth every penny and then some","UK":"proper value, this","AU":"bang for your buck"}},
+{"cn":"快去下单","localized":{"US":"link's up — treat yourself","UK":"link's there if you fancy a look","AU":"go on, give it a crack"}},
+{"cn":"手慢无","localized":{"US":"blink and it's gone","UK":"don't dawdle — these go quickly","AU":"be quick or miss out"}}
+],"cultural_references":[
+{"cn":"宋代美学","explanation":{"US":"Song Dynasty (960-1279) aesthetic, refined minimalism","UK":"Song Dynasty elegance from a golden age of Chinese art","AU":"ancient Chinese Song Dynasty — clean and timeless"}},
+{"cn":"故宫同款","explanation":{"US":"inspired by the Palace Museum / Forbidden City collection","UK":"echoing the Forbidden City's imperial collection","AU":"Forbidden City museum vibes — proper imperial quality"}},
+{"cn":"国风","localized":{"US":"Chinese heritage-inspired design","UK":"Chinese traditional style, reimagined","AU":"proper Chinese heritage style"}},
+{"cn":"新中式","localized":{"US":"modern Chinese aesthetic","UK":"contemporary take on Chinese tradition","AU":"modern twist on classic Chinese style"}},
+{"cn":"非遗","explanation":{"US":"Intangible Cultural Heritage — UNESCO-recognized traditional craft","UK":"recognized Intangible Cultural Heritage","AU":"UNESCO-recognised traditional craft heritage"}},
+{"cn":"中国红","explanation":{"US":"Chinese red — symbol of luck and joy","UK":"proper Chinese red — luck and celebration","AU":"classic Chinese red — for good fortune"}},
+{"cn":"民国风","explanation":{"US":"1920s Shanghai-era vintage glamour","UK":"Republican-era Chinese vintage charm","AU":"old Shanghai vintage elegance"}}
+],"fashion_apparel":[
+{"cn":"显瘦","localized":{"US":"creates a beautifully streamlined silhouette","UK":"gives a rather flattering line","AU":"makes you look trim as"}},
+{"cn":"百搭","localized":{"US":"pairs with literally everything","UK":"goes with absolutely everything","AU":"goes with anything you throw at it"}},
+{"cn":"显白","localized":{"US":"makes your skin tone absolutely glow","UK":"brings out the warmth in your complexion","AU":"makes your skin look brighter"}},
+{"cn":"垂感","localized":{"US":"drapes like a dream","UK":"hangs beautifully","AU":"sits nice and flows well"}},
+{"cn":"面料舒服","localized":{"US":"the fabric feels like a second skin","UK":"properly comfortable fabric","AU":"feels bloody lovely on"}},
+{"cn":"不起球","localized":{"US":"zero pilling after multiple washes","UK":"no bobbling whatsoever","AU":"no pilling at all"}}
+],"beauty_skincare":[
+{"cn":"一抹化水","localized":{"US":"transforms into a watery essence on contact","UK":"melts into a lovely light texture","AU":"turns watery as soon as it hits skin"}},
+{"cn":"不粘腻","localized":{"US":"zero sticky residue, just clean hydration","UK":"not at all sticky — absorbs beautifully","AU":"no sticky feel at all"}},
+{"cn":"温和不刺激","localized":{"US":"gentle enough for the most reactive skin","UK":"properly gentle — no irritation","AU":"gentle as, even on sensitive skin"}},
+{"cn":"不卡粉","localized":{"US":"melts into skin without a trace","UK":"doesn't sit in lines — seamless","AU":"no creasing, sits smooth all day"}},
+{"cn":"敏感肌友好","localized":{"US":"formulated with sensitive skin in mind","UK":"kind to sensitive skin, properly tested","AU":"safe for sensitive skin"}}
+],"home_lifestyle":[
+{"cn":"收纳神器","localized":{"US":"the organization hack your space needs","UK":"a proper game-changer for keeping things tidy","AU":"absolute ripper for getting things sorted"}},
+{"cn":"空间翻倍","localized":{"US":"makes your space feel twice as big","UK":"makes the room feel properly spacious","AU":"doubles your usable space"}},
+{"cn":"租房党必备","localized":{"US":"renter-friendly, won't cost your deposit","UK":"perfect for renters — no damage, all style","AU":"renter's dream — no holes, no hassle"}},
+{"cn":"幸福感","localized":{"US":"makes your space feel like a sanctuary","UK":"adds a proper sense of contentment","AU":"makes the place feel properly happy"}}
+],"food_drink":[
+{"cn":"入口即化","localized":{"US":"dissolves the moment it touches your tongue","UK":"melts in the mouth — quite lovely","AU":"melts in your mouth, unreal"}},
+{"cn":"Q弹","localized":{"US":"perfectly bouncy with that satisfying chew","UK":"has a rather lovely bounce to it","AU":"nice and bouncy, perfect chew"}},
+{"cn":"无添加","localized":{"US":"clean label — no preservatives","UK":"free from additives — properly clean","AU":"no additives, clean as"}},
+{"cn":"料超足","localized":{"US":"they did NOT skimp — every bite is loaded","UK":"properly generous with the good bits","AU":"loaded up, not stingy at all"}}
+],"jewelry_accessories":[
+{"cn":"显手白","localized":{"US":"makes your hands look absolutely luminous","UK":"brings out the warmth in your hands","AU":"makes your hands look proper bright"}},
+{"cn":"不褪色","localized":{"US":"won't tarnish or fade","UK":"doesn't discolour — stays lovely","AU":"no fading or tarnishing"}},
+{"cn":"叠戴","localized":{"US":"designed for layering","UK":"perfect for stacking","AU":"made for stacking up"}},
+{"cn":"显气质","localized":{"US":"instantly elevates your entire look","UK":"lifts the whole outfit","AU":"makes the whole outfit look classier"}}
+]}
